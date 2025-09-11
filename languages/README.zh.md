@@ -16,12 +16,12 @@
 Git/GitHub（基本版本控制）
 
 📚 资源：
-Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
-Exercism.io: https://exercism.org/tracks/java
-Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
-Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
-GitHub Docs: https://docs.github.com/en/get-started
-Beecrowd: https://www.beecrowd.com.br
+* Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
+* Exercism.io: https://exercism.org/tracks/java
+* Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+* Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
+* GitHub Docs: https://docs.github.com/en/get-started
+* Beecrowd: https://www.beecrowd.com.br
 
 ## 第二阶段 – 面向对象编程（2至3个月）
 类和对象（修饰符、属性和方法）
@@ -43,12 +43,12 @@ Beecrowd: https://www.beecrowd.com.br
 在LeetCode/HackerRank上解决数据结构与算法（DSA）问题
 
 📚 资源：
-Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
-Baeldung (Java OOP): https://www.baeldung.com/java-oop
-LeetCode: https://leetcode.com/
-HackerRank (Java Track): https://www.hackerrank.com/domains/java
-Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
-Head First Java (Book)
+* Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
+* Baeldung (Java OOP): https://www.baeldung.com/java-oop
+* LeetCode: https://leetcode.com/
+* HackerRank (Java Track): https://www.hackerrank.com/domains/java
+* Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
+* Head First Java (Book)
 
 ## 第三阶段 – 主要框架（3至4个月）
 Spring Boot
@@ -68,16 +68,16 @@ Testcontainers（使用真实数据库进行测试）
 至少将一个完整项目部署到AWS（或Railway/Heroku，但AWS更有分量）
 
 📚 资源：
-Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-Spring Guides: https://spring.io/guides
-Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-JUnit: https://junit.org/junit5/
-Mockito: https://site.mockito.org/
-Maven: https://maven.apache.org/
-Gradle: https://gradle.org/
-Testcontainers: https://testcontainers.org/
-AWS Free Tier Tutorials: https://aws.amazon.com/free/
-Railway.app: https://railway.app/
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## 第四阶段 – 数据库（2个月）
 SQL基础
@@ -99,19 +99,19 @@ MongoDB和Spring Data Mongo（NoSQL）
 研究索引和查询优化
 
 📚 资源：
-SQLBolt: https://sqlbolt.com/
-Mode SQL Tutorial: https://mode.com/sql-tutorial/
-PostgreSQL Official Docs: https://www.postgresql.org/docs/
-MySQL Official Docs: https://dev.mysql.com/doc/
-Flyway: https://flywaydb.org/
-Liquibase: https://www.liquibase.org/
-MongoDB University: https://learn.mongodb.com/
-Practical MongoDB Aggregations (Free eBook)
-Redis University: https://university.redis.com/
-Apache Kafka: https://kafka.apache.org/documentation/
-RabbitMQ: https://www.rabbitmq.com/tutorials/
-GraphQL Official: https://graphql.org/
-Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+* SQLBolt: https://sqlbolt.com/
+* Mode SQL Tutorial: https://mode.com/sql-tutorial/
+* PostgreSQL Official Docs: https://www.postgresql.org/docs/
+* MySQL Official Docs: https://dev.mysql.com/doc/
+* Flyway: https://flywaydb.org/
+* Liquibase: https://www.liquibase.org/
+* MongoDB University: https://learn.mongodb.com/
+* Practical MongoDB Aggregations (Free eBook)
+* Redis University: https://university.redis.com/
+* Apache Kafka: https://kafka.apache.org/documentation/
+* RabbitMQ: https://www.rabbitmq.com/tutorials/
+* GraphQL Official: https://graphql.org/
+* Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
 
 ## 第五阶段 – 系统架构（3个月）
 应用Clean Code原则的项目
@@ -141,17 +141,17 @@ Docker和Docker Compose
 学习Kubernetes基础
 
 📚 资源：
-Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
-MartinFowler.com (Architecture): https://martinfowler.com/
-Docker Official Docs: https://docs.docker.com/
-GitHub Actions: https://docs.github.com/en/actions
-Kubernetes Official Docs: https://kubernetes.io/docs/
-Prometheus: https://prometheus.io/docs/
-Grafana: https://grafana.com/docs/
-Elastic Docs: https://www.elastic.co/guide/
-System Design Primer: https://github.com/donnemartin/system-design-primer
-Clean Architecture (Book, Robert C. Martin)
-Designing Data-Intensive Applications (Book, Martin Kleppmann)
+* Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
+* MartinFowler.com (Architecture): https://martinfowler.com/
+* Docker Official Docs: https://docs.docker.com/
+* GitHub Actions: https://docs.github.com/en/actions
+* Kubernetes Official Docs: https://kubernetes.io/docs/
+* Prometheus: https://prometheus.io/docs/
+* Grafana: https://grafana.com/docs/
+* Elastic Docs: https://www.elastic.co/guide/
+* System Design Primer: https://github.com/donnemartin/system-design-primer
+* Clean Architecture (Book, Robert C. Martin)
+* Designing Data-Intensive Applications (Book, Martin Kleppmann)
 
 最终项目（学习巩固）
 带认证的完整CRUD
@@ -200,9 +200,9 @@ Spring Boot Profiles + Actuator
 安全性：OWASP十大安全风险（SQL注入、XSS、CSRF等）及如何预防
 
 📚 资源：
-Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
-SLF4J: https://www.slf4j.org/
-Resilience4j: https://resilience4j.readme.io/
-OWASP Top Ten: https://owasp.org/www-project-top-ten/
-Loiane Groner: https://www.youtube.com/@LoianeGroner
-DevDojo: https://www.youtube.com/@DevDojo
+* Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
+* SLF4J: https://www.slf4j.org/
+* Resilience4j: https://resilience4j.readme.io/
+* OWASP Top Ten: https://owasp.org/www-project-top-ten/
+* Loiane Groner: https://www.youtube.com/@LoianeGroner
+* DevDojo: https://www.youtube.com/@DevDojo

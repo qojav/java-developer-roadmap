@@ -16,12 +16,12 @@
 Git/GitHub (기본 버전 관리)
 
 📚 자료:
-Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
-Exercism.io: https://exercism.org/tracks/java
-Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
-Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
-GitHub Docs: https://docs.github.com/en/get-started
-Beecrowd: https://www.beecrowd.com.br
+* Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
+* Exercism.io: https://exercism.org/tracks/java
+* Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+* Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
+* GitHub Docs: https://docs.github.com/en/get-started
+* Beecrowd: https://www.beecrowd.com.br
 
 ## 2단계 – 객체 지향 프로그래밍 (2~3개월)
 클래스 및 객체 (수식어, 속성, 메서드)
@@ -43,12 +43,12 @@ Beecrowd: https://www.beecrowd.com.br
 LeetCode/HackerRank에서 데이터 구조 및 알고리즘(DSA) 문제 해결
 
 📚 자료:
-Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
-Baeldung (Java OOP): https://www.baeldung.com/java-oop
-LeetCode: https://leetcode.com/
-HackerRank (Java Track): https://www.hackerrank.com/domains/java
-Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
-Head First Java (Book)
+* Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
+* Baeldung (Java OOP): https://www.baeldung.com/java-oop
+* LeetCode: https://leetcode.com/
+* HackerRank (Java Track): https://www.hackerrank.com/domains/java
+* Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
+* Head First Java (Book)
 
 ## 3단계 – 주요 프레임워크 (3~4개월)
 Spring Boot
@@ -68,16 +68,16 @@ Testcontainers (실제 데이터베이스를 사용한 테스트)
 최소한 하나의 완전한 프로젝트를 AWS에 배포 (또는 Railway/Heroku, 하지만 AWS가 더 중요)
 
 📚 자료:
-Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-Spring Guides: https://spring.io/guides
-Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-JUnit: https://junit.org/junit5/
-Mockito: https://site.mockito.org/
-Maven: https://maven.apache.org/
-Gradle: https://gradle.org/
-Testcontainers: https://testcontainers.org/
-AWS Free Tier Tutorials: https://aws.amazon.com/free/
-Railway.app: https://railway.app/
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## 4단계 – 데이터베이스 (2개월)
 SQL 기초
@@ -99,19 +99,19 @@ GraphQL 학습 (글로벌 기업에서 강한 트렌드)
 인덱싱 및 쿼리 최적화 연구
 
 📚 자료:
-SQLBolt: https://sqlbolt.com/
-Mode SQL Tutorial: https://mode.com/sql-tutorial/
-PostgreSQL Official Docs: https://www.postgresql.org/docs/
-MySQL Official Docs: https://dev.mysql.com/doc/
-Flyway: https://flywaydb.org/
-Liquibase: https://www.liquibase.org/
-MongoDB University: https://learn.mongodb.com/
-Practical MongoDB Aggregations (Free eBook)
-Redis University: https://university.redis.com/
-Apache Kafka: https://kafka.apache.org/documentation/
-RabbitMQ: https://www.rabbitmq.com/tutorials/
-GraphQL Official: https://graphql.org/
-Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+* SQLBolt: https://sqlbolt.com/
+* Mode SQL Tutorial: https://mode.com/sql-tutorial/
+* PostgreSQL Official Docs: https://www.postgresql.org/docs/
+* MySQL Official Docs: https://dev.mysql.com/doc/
+* Flyway: https://flywaydb.org/
+* Liquibase: https://www.liquibase.org/
+* MongoDB University: https://learn.mongodb.com/
+* Practical MongoDB Aggregations (Free eBook)
+* Redis University: https://university.redis.com/
+* Apache Kafka: https://kafka.apache.org/documentation/
+* RabbitMQ: https://www.rabbitmq.com/tutorials/
+* GraphQL Official: https://graphql.org/
+* Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
 
 ## 5단계 – 시스템 아키텍처 (3개월)
 클린 코드 원칙을 적용한 프로젝트
@@ -141,17 +141,18 @@ GitHub Actions를 사용한 CI/CD
 Kubernetes 기초 연구
 
 📚 자료:
-Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
-MartinFowler.com (Architecture): https://martinfowler.com/
-Docker Official Docs: https://docs.docker.com/
-GitHub Actions: https://docs.github.com/en/actions
-Kubernetes Official Docs: https://kubernetes.io/docs/
-Prometheus: https://prometheus.io/docs/
-Grafana: https://grafana.com/docs/
-Elastic Docs: https://www.elastic.co/guide/
-System Design Primer: https://github.com/donnemartin/system-design-primer
-Clean Architecture (Book, Robert C. Martin)
-Designing Data-Intensive Applications (Book, Martin Kleppmann)
+* Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
+* MartinFowler.com (Architecture): https://martinfowler.com/
+* Docker Official Docs: https://docs.docker.com/
+* GitHub Actions: https://docs.github.com/en/actions
+* Kubernetes Official Docs: https://kubernetes.io/docs/
+* Prometheus: https://prometheus.io/docs/
+* Grafana: https://grafana.com/docs/
+* Elastic Docs: https://www.elastic.co/guide/
+* System Design Primer: https://github.com/donnemartin/system-design-primer
+* Clean Architecture (Book, Robert C. Martin)
+* Designing Data-Intensive Applications (Book, Martin Kleppmann)
+
 
 최종 프로젝트 (학습 강화)
 인증을 포함한 완전한 CRUD
@@ -200,9 +201,9 @@ Spring Boot Profiles + Actuator
 보안: OWASP Top Ten (SQL Injection, XSS, CSRF 등) 및 예방 방법
 
 📚 자료:
-Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
-SLF4J: https://www.slf4j.org/
-Resilience4j: https://resilience4j.readme.io/
-OWASP Top Ten: https://owasp.org/www-project-top-ten/
-Loiane Groner: https://www.youtube.com/@LoianeGroner
-DevDojo: https://www.youtube.com/@DevDojo
+* Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
+* SLF4J: https://www.slf4j.org/
+* Resilience4j: https://resilience4j.readme.io/
+* OWASP Top Ten: https://owasp.org/www-project-top-ten/
+* Loiane Groner: https://www.youtube.com/@LoianeGroner
+* DevDojo: https://www.youtube.com/@DevDojo

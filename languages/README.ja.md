@@ -16,12 +16,12 @@
 Git/GitHub（基本的なバージョン管理）
 
 📚 リソース：
-Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
-Exercism.io: https://exercism.org/tracks/java
-Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
-Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
-GitHub Docs: https://docs.github.com/en/get-started
-Beecrowd: https://www.beecrowd.com.br
+* Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
+* Exercism.io: https://exercism.org/tracks/java
+* Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+* Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
+* GitHub Docs: https://docs.github.com/en/get-started
+* Beecrowd: https://www.beecrowd.com.br
 
 ## フェーズ2 – オブジェクト指向プログラミング（2～3ヶ月）
 クラスとオブジェクト（修飾子、属性、メソッド）
@@ -43,12 +43,12 @@ Beecrowd: https://www.beecrowd.com.br
 LeetCode/HackerRankでデータ構造とアルゴリズム（DSA）の問題を解く
 
 📚 リソース：
-Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
-Baeldung (Java OOP): https://www.baeldung.com/java-oop
-LeetCode: https://leetcode.com/
-HackerRank (Java Track): https://www.hackerrank.com/domains/java
-Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
-Head First Java (Book)
+* Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
+* Baeldung (Java OOP): https://www.baeldung.com/java-oop
+* LeetCode: https://leetcode.com/
+* HackerRank (Java Track): https://www.hackerrank.com/domains/java
+* Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
+* Head First Java (Book)
 
 ## フェーズ3 – 主要なフレームワーク（3～4ヶ月）
 Spring Boot
@@ -68,16 +68,16 @@ Testcontainers（実際のデータベースを使用したテスト）
 少なくとも1つの完全なプロジェクトをAWSにデプロイ（またはRailway/Heroku、ただしAWSの方が重要）
 
 📚 リソース：
-Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-Spring Guides: https://spring.io/guides
-Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-JUnit: https://junit.org/junit5/
-Mockito: https://site.mockito.org/
-Maven: https://maven.apache.org/
-Gradle: https://gradle.org/
-Testcontainers: https://testcontainers.org/
-AWS Free Tier Tutorials: https://aws.amazon.com/free/
-Railway.app: https://railway.app/
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## フェーズ4 – データベース（2ヶ月）
 SQLの基礎
@@ -99,19 +99,19 @@ GraphQLの学習（グローバル企業での強いトレンド）
 インデックス作成とクエリ最適化の学習
 
 📚 リソース：
-SQLBolt: https://sqlbolt.com/
-Mode SQL Tutorial: https://mode.com/sql-tutorial/
-PostgreSQL Official Docs: https://www.postgresql.org/docs/
-MySQL Official Docs: https://dev.mysql.com/doc/
-Flyway: https://flywaydb.org/
-Liquibase: https://www.liquibase.org/
-MongoDB University: https://learn.mongodb.com/
-Practical MongoDB Aggregations (Free eBook)
-Redis University: https://university.redis.com/
-Apache Kafka: https://kafka.apache.org/documentation/
-RabbitMQ: https://www.rabbitmq.com/tutorials/
-GraphQL Official: https://graphql.org/
-Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+* SQLBolt: https://sqlbolt.com/
+* Mode SQL Tutorial: https://mode.com/sql-tutorial/
+* PostgreSQL Official Docs: https://www.postgresql.org/docs/
+* MySQL Official Docs: https://dev.mysql.com/doc/
+* Flyway: https://flywaydb.org/
+* Liquibase: https://www.liquibase.org/
+* MongoDB University: https://learn.mongodb.com/
+* Practical MongoDB Aggregations (Free eBook)
+* Redis University: https://university.redis.com/
+* Apache Kafka: https://kafka.apache.org/documentation/
+* RabbitMQ: https://www.rabbitmq.com/tutorials/
+* GraphQL Official: https://graphql.org/
+* Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
 
 ## フェーズ5 – システムアーキテクチャ（3ヶ月）
 クリーンコードの原則を適用したプロジェクト
@@ -141,17 +141,18 @@ GitHub Actionsを使用したCI/CD
 Kubernetesの基礎を学ぶ
 
 📚 リソース：
-Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
-MartinFowler.com (Architecture): https://martinfowler.com/
-Docker Official Docs: https://docs.docker.com/
-GitHub Actions: https://docs.github.com/en/actions
-Kubernetes Official Docs: https://kubernetes.io/docs/
-Prometheus: https://prometheus.io/docs/
-Grafana: https://grafana.com/docs/
-Elastic Docs: https://www.elastic.co/guide/
-System Design Primer: https://github.com/donnemartin/system-design-primer
-Clean Architecture (Book, Robert C. Martin)
-Designing Data-Intensive Applications (Book, Martin Kleppmann)
+* Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
+* MartinFowler.com (Architecture): https://martinfowler.com/
+* Docker Official Docs: https://docs.docker.com/
+* GitHub Actions: https://docs.github.com/en/actions
+* Kubernetes Official Docs: https://kubernetes.io/docs/
+* Prometheus: https://prometheus.io/docs/
+* Grafana: https://grafana.com/docs/
+* Elastic Docs: https://www.elastic.co/guide/
+* System Design Primer: https://github.com/donnemartin/system-design-primer
+* Clean Architecture (Book, Robert C. Martin)
+* Designing Data-Intensive Applications (Book, Martin Kleppmann)
+
 
 最終プロジェクト（学習の定着）
 認証付きの完全なCRUD
@@ -200,9 +201,9 @@ Spring Boot Profiles + Actuator
 セキュリティ：OWASPトップ10（SQLインジェクション、XSS、CSRFなど）およびその防止方法
 
 📚 リソース：
-Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
-SLF4J: https://www.slf4j.org/
-Resilience4j: https://resilience4j.readme.io/
-OWASP Top Ten: https://owasp.org/www-project-top-ten/
-Loiane Groner: https://www.youtube.com/@LoianeGroner
-DevDojo: https://www.youtube.com/@DevDojo
+* Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
+* SLF4J: https://www.slf4j.org/
+* Resilience4j: https://resilience4j.readme.io/
+* OWASP Top Ten: https://owasp.org/www-project-top-ten/
+* Loiane Groner: https://www.youtube.com/@LoianeGroner
+* DevDojo: https://www.youtube.com/@DevDojo

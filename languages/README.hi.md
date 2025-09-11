@@ -16,12 +16,12 @@
 Git/GitHub (बेसिक वर्जन कंट्रोल)
 
 📚 संसाधन:
-Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
-Exercism.io: https://exercism.org/tracks/java
-Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
-Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
-GitHub Docs: https://docs.github.com/en/get-started
-Beecrowd: https://www.beecrowd.com.br
+* Oracle Java Tutorials: https://docs.oracle.com/javase/tutorial/
+* Exercism.io: https://exercism.org/tracks/java
+* Java Programming MOOC by the University of Helsinki: https://java-programming.mooc.fi/
+* Git - The Simple Guide: https://rogerdudler.github.io/git-guide/
+* GitHub Docs: https://docs.github.com/en/get-started
+* Beecrowd: https://www.beecrowd.com.br
 
 ## चरण 2 – ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग (2 से 3 महीने)
 क्लासेस और ऑब्जेक्ट्स (मॉडिफायर्स, एट्रीब्यूट्स और मेथड्स)
@@ -43,12 +43,12 @@ Beecrowd: https://www.beecrowd.com.br
 LeetCode/HackerRank पर डेटा स्ट्रक्चर्स और एल्गोरिदम (DSA) समस्याओं का समाधान
 
 📚 संसाधन:
-Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
-Baeldung (Java OOP): https://www.baeldung.com/java-oop
-LeetCode: https://leetcode.com/
-HackerRank (Java Track): https://www.hackerrank.com/domains/java
-Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
-Head First Java (Book)
+* Oracle Java Tutorials (OOP): https://docs.oracle.com/javase/tutorial/java/concepts/
+* Baeldung (Java OOP): https://www.baeldung.com/java-oop
+* LeetCode: https://leetcode.com/
+* HackerRank (Java Track): https://www.hackerrank.com/domains/java
+* Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
+* Head First Java (Book)
 
 ## चरण 3 – प्रमुख फ्रेमवर्क्स (3 से 4 महीने)
 Spring Boot
@@ -68,16 +68,16 @@ Testcontainers (वास्तविक डेटाबेस के साथ 
 कम से कम एक पूर्ण प्रोजेक्ट को AWS पर डिप्लॉय करें (या Railway/Heroku, लेकिन AWS का वजन अधिक है)
 
 📚 संसाधन:
-Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-Spring Guides: https://spring.io/guides
-Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-JUnit: https://junit.org/junit5/
-Mockito: https://site.mockito.org/
-Maven: https://maven.apache.org/
-Gradle: https://gradle.org/
-Testcontainers: https://testcontainers.org/
-AWS Free Tier Tutorials: https://aws.amazon.com/free/
-Railway.app: https://railway.app/
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## चरण 4 – डेटाबेस (2 महीने)
 SQL की मूल बातें
@@ -99,19 +99,19 @@ GraphQL सीखें (वैश्विक कंपनियों मे�
 इंडेक्सिंग और क्वेरी ऑप्टिमाइजेशन का अध्ययन
 
 📚 संसाधन:
-SQLBolt: https://sqlbolt.com/
-Mode SQL Tutorial: https://mode.com/sql-tutorial/
-PostgreSQL Official Docs: https://www.postgresql.org/docs/
-MySQL Official Docs: https://dev.mysql.com/doc/
-Flyway: https://flywaydb.org/
-Liquibase: https://www.liquibase.org/
-MongoDB University: https://learn.mongodb.com/
-Practical MongoDB Aggregations (Free eBook)
-Redis University: https://university.redis.com/
-Apache Kafka: https://kafka.apache.org/documentation/
-RabbitMQ: https://www.rabbitmq.com/tutorials/
-GraphQL Official: https://graphql.org/
-Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+* SQLBolt: https://sqlbolt.com/
+* Mode SQL Tutorial: https://mode.com/sql-tutorial/
+* PostgreSQL Official Docs: https://www.postgresql.org/docs/
+* MySQL Official Docs: https://dev.mysql.com/doc/
+* Flyway: https://flywaydb.org/
+* Liquibase: https://www.liquibase.org/
+* MongoDB University: https://learn.mongodb.com/
+* Practical MongoDB Aggregations (Free eBook)
+* Redis University: https://university.redis.com/
+* Apache Kafka: https://kafka.apache.org/documentation/
+* RabbitMQ: https://www.rabbitmq.com/tutorials/
+* GraphQL Official: https://graphql.org/
+* Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
 
 ## चरण 5 – सिस्टम आर्किटेक्चर (3 महीने)
 क्लीन कोड सिद्धांतों को लागू करने वाले प्रोजेक्ट्स
@@ -141,17 +141,18 @@ GitHub Actions के साथ CI/CD
 Kubernetes की मूल बातें अध्ययन करें
 
 📚 संसाधन:
-Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
-MartinFowler.com (Architecture): https://martinfowler.com/
-Docker Official Docs: https://docs.docker.com/
-GitHub Actions: https://docs.github.com/en/actions
-Kubernetes Official Docs: https://kubernetes.io/docs/
-Prometheus: https://prometheus.io/docs/
-Grafana: https://grafana.com/docs/
-Elastic Docs: https://www.elastic.co/guide/
-System Design Primer: https://github.com/donnemartin/system-design-primer
-Clean Architecture (Book, Robert C. Martin)
-Designing Data-Intensive Applications (Book, Martin Kleppmann)
+* Refactoring Guru (Design Patterns): https://refactoring.guru/design-patterns/java
+* MartinFowler.com (Architecture): https://martinfowler.com/
+* Docker Official Docs: https://docs.docker.com/
+* GitHub Actions: https://docs.github.com/en/actions
+* Kubernetes Official Docs: https://kubernetes.io/docs/
+* Prometheus: https://prometheus.io/docs/
+* Grafana: https://grafana.com/docs/
+* Elastic Docs: https://www.elastic.co/guide/
+* System Design Primer: https://github.com/donnemartin/system-design-primer
+* Clean Architecture (Book, Robert C. Martin)
+* Designing Data-Intensive Applications (Book, Martin Kleppmann)
+
 
 अंतिम प्रोजेक्ट्स (सीखने का समेकन)
 प्रमाणीकरण के साथ पूर्ण CRUD
@@ -200,9 +201,9 @@ Spring Boot Profiles + Actuator
 सुरक्षा: OWASP टॉप टेन (SQL इंजेक्शन, XSS, CSRF, आदि) और उन्हें कैसे रोकें
 
 📚 संसाधन:
-Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
-SLF4J: https://www.slf4j.org/
-Resilience4j: https://resilience4j.readme.io/
-OWASP Top Ten: https://owasp.org/www-project-top-ten/
-Loiane Groner: https://www.youtube.com/@LoianeGroner
-DevDojo: https://www.youtube.com/@DevDojo
+* Oracle Documentation (Stream API, Optional): https://docs.oracle.com/javase/8/docs/api/
+* SLF4J: https://www.slf4j.org/
+* Resilience4j: https://resilience4j.readme.io/
+* OWASP Top Ten: https://owasp.org/www-project-top-ten/
+* Loiane Groner: https://www.youtube.com/@LoianeGroner
+* DevDojo: https://www.youtube.com/@DevDojo
