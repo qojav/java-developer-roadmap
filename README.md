@@ -4,7 +4,11 @@ This repository provides a comprehensive Java learning roadmap designed to guide
 
 ## ⚡ Note
 
- You don’t need to complete the entire roadmap before applying for jobs. From Phase 2 (Object-Oriented Programming) onwards, you will already have the necessary foundations to start looking for internships or junior developer positions while continuing your learning journey.
+You don’t need to complete the entire roadmap before applying for jobs. From Phase 2 (Object-Oriented Programming) onwards, you will already have the necessary foundations to start looking for internships or junior developer positions while continuing your learning journey.
+
+## ⭐ Give me a star
+
+Let’s help this roadmap reach as many people as possible! This way, beginners will have easy access to the content and finally master this challenging language once and for all.
 
 ## Roadmap Structure
 
