@@ -155,6 +155,7 @@ Estudar os fundamentos de Kubernetes
 
 
 Projetos Finais (Consolidação do Aprendizado)
+
 CRUD completo com autenticação
 
 Módulo de autenticação independente (JWT + OAuth2)

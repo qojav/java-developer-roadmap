@@ -154,6 +154,7 @@ Study the basics of Kubernetes
 * Designing Data-Intensive Applications (Book, Martin Kleppmann)
 
 Final Projects (Learning Consolidation)
+
 Full CRUD with authentication
 
 Standalone authentication module (JWT + OAuth2)

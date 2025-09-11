@@ -2,6 +2,10 @@
 
 This repository provides a comprehensive Java learning roadmap designed to guide learners from beginner to advanced levels. The roadmap is structured into five phases, each focusing on specific skills and technologies to help you become a proficient Java developer. Additionally, to make this resource accessible to a global audience, the roadmap is available in multiple languages, located in the `/languages` directory.
 
+## ⚡ Note
+
+ You don’t need to complete the entire roadmap before applying for jobs. From Phase 2 (Object-Oriented Programming) onwards, you will already have the necessary foundations to start looking for internships or junior developer positions while continuing your learning journey.
+
 ## Roadmap Structure
 
 The Java Learning Roadmap is divided into five progressive phases, each building upon the previous one. Below is a brief overview of each phase:

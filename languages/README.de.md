@@ -155,6 +155,7 @@ Grundlagen von Kubernetes studieren
 
 
 Abschlussprojekte (Konsolidierung des Gelernten)
+
 Vollständiges CRUD mit Authentifizierung
 
 Eigenständiges Authentifizierungsmodul (JWT + OAuth2)

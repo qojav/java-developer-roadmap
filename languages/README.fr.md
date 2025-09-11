@@ -155,6 +155,7 @@ Apprendre la conception de systèmes (évolutivité, haute disponibilité, commu
 
 
 Projets Finaux (Consolidation de l’Apprentissage)
+
 CRUD complet avec authentification
 
 Module d’authentification indépendant (JWT + OAuth2)
