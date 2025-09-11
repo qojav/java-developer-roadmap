@@ -27,6 +27,7 @@ Additionally, the roadmap includes **Final Projects** to consolidate learning th
 
 To ensure accessibility for a global audience, the roadmap is translated into multiple languages. You can find the translated versions in the `/languages` directory:
 
+- [English](/languages/README.en.md)
 - [Arabic](/languages/README.ar.md)
 - [Bengali](/languages/README.bn.md)
 - [Chinese (Mandarin)](/languages/README.zh.md)
