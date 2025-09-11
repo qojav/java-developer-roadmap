@@ -50,36 +50,7 @@ Git/GitHub (التحكم بالإصدارات الأساسي)
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## المرحلة الثالثة – الأطر الرئيسية (من 3 إلى 4 أشهر)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (المصادقة/التفويض، JWT، OAuth2)
-
-Hibernate (ORM)
-
-Maven وGradle (إدارة التبعيات والبناء)
-
-JUnit + Mockito (اختبارات الوحدة والتكامل)
-
-Testcontainers (اختبارات مع قواعد بيانات حقيقية)
-
-نشر مشروع كامل واحد على الأقل على AWS (أو Railway/Heroku، لكن AWS لها وزن أكبر)
-
-📚 الموارد:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## المرحلة الرابعة – قواعد البيانات (شهرين)
+## المرحلة الثالثة – قواعد البيانات (شهرين)
 أساسيات SQL
 
 PostgreSQL وMySQL (علائقية)
@@ -112,6 +83,35 @@ MongoDB وSpring Data Mongo (NoSQL)
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## المرحلة الرابعة – الأطر الرئيسية (من 3 إلى 4 أشهر)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (المصادقة/التفويض، JWT، OAuth2)
+
+Hibernate (ORM)
+
+Maven وGradle (إدارة التبعيات والبناء)
+
+JUnit + Mockito (اختبارات الوحدة والتكامل)
+
+Testcontainers (اختبارات مع قواعد بيانات حقيقية)
+
+نشر مشروع كامل واحد على الأقل على AWS (أو Railway/Heroku، لكن AWS لها وزن أكبر)
+
+📚 الموارد:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## المرحلة الخامسة – هندسة النظام (3 أشهر)
 مشاريع تطبق مبادئ الكود النظيف
@@ -153,9 +153,7 @@ CI/CD باستخدام GitHub Actions
 * Clean Architecture (Book, Robert C. Martin)
 * Designing Data-Intensive Applications (Book, Martin Kleppmann)
 
-
 المشاريع النهائية (تثبيت التعلم)
-
 CRUD كامل مع المصادقة
 
 وحدة مصادقة مستقلة (JWT + OAuth2)

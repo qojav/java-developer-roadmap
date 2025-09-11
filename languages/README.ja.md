@@ -50,36 +50,7 @@ LeetCode/HackerRankでデータ構造とアルゴリズム（DSA）の問題を�
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## フェーズ3 – 主要なフレームワーク（3～4ヶ月）
-Spring Boot
-
-Spring Data JPA
-
-Spring Security（認証/認可、JWT、OAuth2）
-
-Hibernate（ORM）
-
-MavenとGradle（ビルドおよび依存関係管理）
-
-JUnit + Mockito（単体テストおよび統合テスト）
-
-Testcontainers（実際のデータベースを使用したテスト）
-
-少なくとも1つの完全なプロジェクトをAWSにデプロイ（またはRailway/Heroku、ただしAWSの方が重要）
-
-📚 リソース：
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## フェーズ4 – データベース（2ヶ月）
+## フェーズ3 – データベース（2ヶ月）
 SQLの基礎
 
 PostgreSQLおよびMySQL（リレーショナル）
@@ -112,6 +83,35 @@ GraphQLの学習（グローバル企業での強いトレンド）
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## フェーズ4 – 主要なフレームワーク（3～4ヶ月）
+Spring Boot
+
+Spring Data JPA
+
+Spring Security（認証/認可、JWT、OAuth2）
+
+Hibernate（ORM）
+
+MavenとGradle（ビルドおよび依存関係管理）
+
+JUnit + Mockito（単体テストおよび統合テスト）
+
+Testcontainers（実際のデータベースを使用したテスト）
+
+少なくとも1つの完全なプロジェクトをAWSにデプロイ（またはRailway/Heroku、ただしAWSの方が重要）
+
+📚 リソース：
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## フェーズ5 – システムアーキテクチャ（3ヶ月）
 クリーンコードの原則を適用したプロジェクト

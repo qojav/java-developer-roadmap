@@ -50,36 +50,7 @@ Giải quyết các bài toán về Cấu trúc Dữ liệu và Thuật toán (D
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## Giai đoạn 3 – Các Framework Chính (3 đến 4 tháng)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (xác thực/ủy quyền, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven và Gradle (quản lý xây dựng và phụ thuộc)
-
-JUnit + Mockito (kiểm tra đơn vị và tích hợp)
-
-Testcontainers (kiểm tra với cơ sở dữ liệu thực)
-
-Triển khai ít nhất một dự án hoàn chỉnh lên AWS (hoặc Railway/Heroku, nhưng AWS có trọng lượng lớn hơn)
-
-📚 Tài nguyên:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## Giai đoạn 4 – Cơ sở Dữ liệu (2 tháng)
+## Giai đoạn 3 – Cơ sở Dữ liệu (2 tháng)
 Cơ bản về SQL
 
 PostgreSQL và MySQL (quan hệ)
@@ -112,6 +83,35 @@ Nghiên cứu lập chỉ mục và tối ưu hóa truy vấn
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## Giai đoạn 4 – Các Framework Chính (3 đến 4 tháng)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (xác thực/ủy quyền, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven và Gradle (quản lý xây dựng và phụ thuộc)
+
+JUnit + Mockito (kiểm tra đơn vị và tích hợp)
+
+Testcontainers (kiểm tra với cơ sở dữ liệu thực)
+
+Triển khai ít nhất một dự án hoàn chỉnh lên AWS (hoặc Railway/Heroku, nhưng AWS có trọng lượng lớn hơn)
+
+📚 Tài nguyên:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## Giai đoạn 5 – Kiến trúc Hệ thống (3 tháng)
 Các dự án áp dụng nguyên tắc Clean Code

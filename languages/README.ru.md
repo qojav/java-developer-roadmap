@@ -50,36 +50,7 @@ Git/GitHub (базовый контроль версий)
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## Фаза 3 – Основные фреймворки (3–4 месяца)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (аутентификация/авторизация, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven и Gradle (управление зависимостями и сборкой)
-
-JUnit + Mockito (юнит-тесты и интеграционные тесты)
-
-Testcontainers (тестирование с реальными базами данных)
-
-Развертывание как минимум одного полного проекта на AWS (или Railway/Heroku, но AWS имеет больший вес)
-
-📚 Ресурсы:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## Фаза 4 – Базы данных (2 месяца)
+## Фаза 3 – Базы данных (2 месяца)
 Основы SQL
 
 PostgreSQL и MySQL (реляционные базы данных)
@@ -112,6 +83,35 @@ MongoDB и Spring Data Mongo (NoSQL)
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## Фаза 4 – Основные фреймворки (3–4 месяца)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (аутентификация/авторизация, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven и Gradle (управление зависимостями и сборкой)
+
+JUnit + Mockito (юнит-тесты и интеграционные тесты)
+
+Testcontainers (тестирование с реальными базами данных)
+
+Развертывание как минимум одного полного проекта на AWS (или Railway/Heroku, но AWS имеет больший вес)
+
+📚 Ресурсы:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## Фаза 5 – Архитектура систем (3 месяца)
 Проекты с применением принципов чистого кода

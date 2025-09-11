@@ -50,36 +50,7 @@ LeetCode/HackerRank-এ ডেটা স্ট্রাকচার এবং �
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## পর্যায় ৩ – প্রধান ফ্রেমওয়ার্ক (৩ থেকে ৪ মাস)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (অথেন্টিকেশন/অথরাইজেশন, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven এবং Gradle (বিল্ড এবং ডিপেন্ডেন্সি ম্যানেজমেন্ট)
-
-JUnit + Mockito (ইউনিট এবং ইন্টিগ্রেশন টেস্ট)
-
-Testcontainers (প্রকৃত ডেটাবেসের সাথে টেস্টিং)
-
-কমপক্ষে একটি সম্পূর্ণ প্রজেক্ট AWS-এ ডিপ্লয় করুন (বা Railway/Heroku, তবে AWS-এর ওজন বেশি)
-
-📚 সম্পদ:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## পর্যায় ৪ – ডেটাবেস (২ মাস)
+## পর্যায় ৩ – ডেটাবেস (২ মাস)
 SQL-এর মৌলিক বিষয়
 
 PostgreSQL এবং MySQL (রিলেশনাল)
@@ -112,6 +83,35 @@ GraphQL শিখুন (বিশ্বব্যাপী কোম্পান
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## পর্যায় ৪ – প্রধান ফ্রেমওয়ার্ক (৩ থেকে ৪ মাস)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (অথেন্টিকেশন/অথরাইজেশন, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven এবং Gradle (বিল্ড এবং ডিপেন্ডেন্সি ম্যানেজমেন্ট)
+
+JUnit + Mockito (ইউনিট এবং ইন্টিগ্রেশন টেস্ট)
+
+Testcontainers (প্রকৃত ডেটাবেসের সাথে টেস্টিং)
+
+কমপক্ষে একটি সম্পূর্ণ প্রজেক্ট AWS-এ ডিপ্লয় করুন (বা Railway/Heroku, তবে AWS-এর ওজন বেশি)
+
+📚 সম্পদ:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## পর্যায় ৫ – সিস্টেম আর্কিটেকচার (৩ মাস)
 ক্লিন কোড নীতি প্রয়োগ করা প্রজেক্ট

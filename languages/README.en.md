@@ -50,36 +50,7 @@ Solve DSA (Data Structures and Algorithms) problems on LeetCode/HackerRank
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## Phase 3 – Main Frameworks (3 to 4 months)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (authentication/authorization, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven and Gradle (build and dependency management)
-
-JUnit + Mockito (unit and integration tests)
-
-Testcontainers (testing with real databases)
-
-Deploy at least one complete project to AWS (or Railway/Heroku, but AWS has more weight)
-
-📚 Resources:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## Phase 4 – Databases (2 months)
+## Phase 3 – Databases (2 months)
 SQL fundamentals
 
 PostgreSQL and MySQL (relational)
@@ -112,6 +83,35 @@ Study indexing and query optimization
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## Phase 4 – Main Frameworks (3 to 4 months)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (authentication/authorization, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven and Gradle (build and dependency management)
+
+JUnit + Mockito (unit and integration tests)
+
+Testcontainers (testing with real databases)
+
+Deploy at least one complete project to AWS (or Railway/Heroku, but AWS has more weight)
+
+📚 Resources:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## Phase 5 – System Architecture (3 months)
 Projects applying Clean Code principles

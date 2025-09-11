@@ -50,36 +50,7 @@ Git/GitHub（基本版本控制）
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## 第三阶段 – 主要框架（3至4个月）
-Spring Boot
-
-Spring Data JPA
-
-Spring Security（认证/授权，JWT，OAuth2）
-
-Hibernate（ORM）
-
-Maven和Gradle（构建和依赖管理）
-
-JUnit + Mockito（单元测试和集成测试）
-
-Testcontainers（使用真实数据库进行测试）
-
-至少将一个完整项目部署到AWS（或Railway/Heroku，但AWS更有分量）
-
-📚 资源：
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## 第四阶段 – 数据库（2个月）
+## 第三阶段 – 数据库（2个月） 
 SQL基础
 
 PostgreSQL和MySQL（关系型数据库）
@@ -112,6 +83,36 @@ MongoDB和Spring Data Mongo（NoSQL）
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## 第四阶段 – 主要框架（3至4个月）
+Spring Boot
+
+Spring Data JPA
+
+Spring Security（认证/授权，JWT，OAuth2）
+
+Hibernate（ORM）
+
+Maven和Gradle（构建和依赖管理）
+
+JUnit + Mockito（单元测试和集成测试）
+
+Testcontainers（使用真实数据库进行测试）
+
+至少将一个完整项目部署到AWS（或Railway/Heroku，但AWS更有分量）
+
+📚 资源：
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
+
 
 ## 第五阶段 – 系统架构（3个月）
 应用Clean Code原则的项目

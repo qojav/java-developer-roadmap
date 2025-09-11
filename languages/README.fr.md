@@ -50,36 +50,7 @@ Résoudre des problèmes de DSA (Structures de Données et Algorithmes) sur Leet
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## Phase 3 – Principaux Frameworks (3 à 4 mois)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (authentification/autorisation, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven et Gradle (gestion de dépendances et builds)
-
-JUnit + Mockito (tests unitaires et d’intégration)
-
-Testcontainers (tests avec des bases de données réelles)
-
-Déployer au moins un projet complet sur AWS (ou Railway/Heroku, mais AWS a plus de poids)
-
-📚 Ressources :
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## Phase 4 – Bases de Données (2 mois)
+## Phase 3 – Bases de Données (2 mois)
 Fondamentaux de SQL
 
 PostgreSQL et MySQL (relationnel)
@@ -112,6 +83,35 @@ Apprendre GraphQL (tendance forte dans les entreprises mondiales)
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## Phase 4 – Principaux Frameworks (3 à 4 mois)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (authentification/autorisation, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven et Gradle (gestion de dépendances et builds)
+
+JUnit + Mockito (tests unitaires et d’intégration)
+
+Testcontainers (tests avec des bases de données réelles)
+
+Déployer au moins un projet complet sur AWS (ou Railway/Heroku, mais AWS a plus de poids)
+
+📚 Ressources :
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## Phase 5 – Architecture des Systèmes (3 mois)
 Projets appliquant les principes du Clean Code

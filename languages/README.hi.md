@@ -50,36 +50,7 @@ LeetCode/HackerRank पर डेटा स्ट्रक्चर्स और
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## चरण 3 – प्रमुख फ्रेमवर्क्स (3 से 4 महीने)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (प्रमाणीकरण/प्राधिकरण, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven और Gradle (बिल्ड और डिपेंडेंसी मैनेजमेंट)
-
-JUnit + Mockito (यूनिट और इंटीग्रेशन टेस्ट्स)
-
-Testcontainers (वास्तविक डेटाबेस के साथ टेस्टिंग)
-
-कम से कम एक पूर्ण प्रोजेक्ट को AWS पर डिप्लॉय करें (या Railway/Heroku, लेकिन AWS का वजन अधिक है)
-
-📚 संसाधन:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## चरण 4 – डेटाबेस (2 महीने)
+## चरण 3 – डेटाबेस (2 महीने)
 SQL की मूल बातें
 
 PostgreSQL और MySQL (रिलेशनल)
@@ -112,6 +83,35 @@ GraphQL सीखें (वैश्विक कंपनियों मे�
 * RabbitMQ: https://www.rabbitmq.com/tutorials/
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
+
+## चरण 4 – प्रमुख फ्रेमवर्क्स (3 से 4 महीने)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (प्रमाणीकरण/प्राधिकरण, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven और Gradle (बिल्ड और डिपेंडेंसी मैनेजमेंट)
+
+JUnit + Mockito (यूनिट और इंटीग्रेशन टेस्ट्स)
+
+Testcontainers (वास्तविक डेटाबेस के साथ टेस्टिंग)
+
+कम से कम एक पूर्ण प्रोजेक्ट को AWS पर डिप्लॉय करें (या Railway/Heroku, लेकिन AWS का वजन अधिक है)
+
+📚 संसाधन:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
 
 ## चरण 5 – सिस्टम आर्किटेक्चर (3 महीने)
 क्लीन कोड सिद्धांतों को लागू करने वाले प्रोजेक्ट्स

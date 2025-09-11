@@ -1,4 +1,4 @@
-## Fase1 – Fundamentos de Java (1 a 2 meses)
+## Fase 1 – Fundamentos de Java (1 a 2 meses)
 Fundamentos da linguagem
 
 Tipos de dados primitivos
@@ -23,7 +23,7 @@ Git/GitHub (controle de versão básico)
 * GitHub Docs: https://docs.github.com/en/get-started
 * Beecrowd: https://www.beecrowd.com.br
 
-## Fase2 – Programação Orientada a Objetos (2 a 3 meses)
+## Fase 2 – Programação Orientada a Objetos (2 a 3 meses)
 Classes e Objetos (modificadores, atributos e métodos)
 
 Interfaces
@@ -50,36 +50,7 @@ Resolver problemas de DSA (Estruturas de Dados e Algoritmos) no LeetCode/HackerR
 * Khan Academy (Algorithms): https://www.khanacademy.org/computing/computer-science/algorithms
 * Head First Java (Book)
 
-## Fase3 – Principais Frameworks (3 a 4 meses)
-Spring Boot
-
-Spring Data JPA
-
-Spring Security (autenticação/autorização, JWT, OAuth2)
-
-Hibernate (ORM)
-
-Maven e Gradle (gerenciamento de dependências e builds)
-
-JUnit + Mockito (testes unitários e de integração)
-
-Testcontainers (testes com bancos de dados reais)
-
-Fazer deploy de pelo menos um projeto completo na AWS (ou Railway/Heroku, mas AWS tem mais peso)
-
-📚 Recursos:
-* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
-* Spring Guides: https://spring.io/guides
-* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
-* JUnit: https://junit.org/junit5/
-* Mockito: https://site.mockito.org/
-* Maven: https://maven.apache.org/
-* Gradle: https://gradle.org/
-* Testcontainers: https://testcontainers.org/
-* AWS Free Tier Tutorials: https://aws.amazon.com/free/
-* Railway.app: https://railway.app/
-
-## Fase4 – Bancos de Dados (2 meses)
+## Fase 3 – Bancos de Dados (2 meses)
 Fundamentos de SQL
 
 PostgreSQL e MySQL (relacionais)
@@ -113,7 +84,36 @@ Estudar indexação e otimização de consultas
 * GraphQL Official: https://graphql.org/
 * Use The Index, Luke! (SQL Indexing): https://use-the-index-luke.com/
 
-## Fase5 – Arquitetura de Sistemas (3 meses)
+## Fase 4 – Principais Frameworks (3 a 4 meses)
+Spring Boot
+
+Spring Data JPA
+
+Spring Security (autenticação/autorização, JWT, OAuth2)
+
+Hibernate (ORM)
+
+Maven e Gradle (gerenciamento de dependências e builds)
+
+JUnit + Mockito (testes unitários e de integração)
+
+Testcontainers (testes com bancos de dados reais)
+
+Fazer deploy de pelo menos um projeto completo na AWS (ou Railway/Heroku, mas AWS tem mais peso)
+
+📚 Recursos:
+* Spring Boot Official Documentation: https://spring.io/projects/spring-boot
+* Spring Guides: https://spring.io/guides
+* Baeldung (Spring Boot): https://www.baeldung.com/spring-boot
+* JUnit: https://junit.org/junit5/
+* Mockito: https://site.mockito.org/
+* Maven: https://maven.apache.org/
+* Gradle: https://gradle.org/
+* Testcontainers: https://testcontainers.org/
+* AWS Free Tier Tutorials: https://aws.amazon.com/free/
+* Railway.app: https://railway.app/
+
+## Fase 5 – Arquitetura de Sistemas (3 meses)
 Projetos aplicando princípios de Clean Code
 
 Padrões de Design comumente usados em Java (Factory, Singleton, Builder, Strategy, Observer, etc.)

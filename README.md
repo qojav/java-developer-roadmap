@@ -16,11 +16,11 @@ The Java Learning Roadmap is divided into five progressive phases, each building
 2. **Phase 2: Object-Oriented Programming (2–3 months)**  
    Focuses on object-oriented programming (OOP) principles such as classes, objects, interfaces, abstraction, encapsulation, inheritance, and polymorphism. It also introduces basic data structures and algorithms.
 
-3. **Phase 3: Main Frameworks (3–4 months)**  
-   Explores essential Java frameworks like Spring Boot, Spring Data JPA, Spring Security, and Hibernate. It includes build tools (Maven, Gradle), testing frameworks (JUnit, Mockito), and deploying a project to the cloud (AWS, Railway, or Heroku).
-
-4. **Phase 4: Databases (2 months)**  
+3. **Phase 3: Databases (2 months)**  
    Covers SQL fundamentals, relational databases (PostgreSQL, MySQL), NoSQL databases (MongoDB), database migrations (Flyway, Liquibase), caching with Redis, messaging systems (Kafka, RabbitMQ), and GraphQL.
+
+4. **Phase 4: Main Frameworks (3–4 months)**  
+   Explores essential Java frameworks like Spring Boot, Spring Data JPA, Spring Security, and Hibernate. It includes build tools (Maven, Gradle), testing frameworks (JUnit, Mockito), and deploying a project to the cloud (AWS, Railway, or Heroku).
 
 5. **Phase 5: System Architecture (3 months)**  
    Focuses on advanced topics like Clean Code, design patterns, SOLID principles, Clean Architecture, TDD, API documentation with Swagger, DevOps (Docker, CI/CD with GitHub Actions), and system design (scalability, high availability, Kubernetes).
