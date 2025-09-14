@@ -64,12 +64,12 @@
 
 ### Projeto Final
 **Sistema de Gerenciamento de Produtos**  
-- Banco: tabelas **Produto** e **Categoria** (relacionamento 1:N).  
-- Java: classes com JPA (`Produto`, `Categoria`), CRUD com Hibernate. 
-- **Opcional**: armazenar logs de alterações de produtos em MongoDB. 
+- Banco: tabelas **Produto** e **Categoria** (relacionamento 1:N).
+- Java: classes com JPA (`Produto`, `Categoria`), CRUD com Hibernate.
+- **Opcional**: armazenar logs de alterações de produtos em MongoDB.
 - **Opcional**: armazenar atributos dinâmicos de produtos (ex.: especificações técnicas) em MongoDB.
-- Streams: filtrar/ordenar produtos (ex.: por preço ou categoria).  
-- Logging: monitorar operações no banco.  
+- Streams: filtrar/ordenar produtos (ex.: por preço ou categoria).
+- Logging: monitorar operações no banco.
 - Git: commit por funcionalidade (ex.: `feature/crud`, `feature/streams`).  
 - Publicar no GitHub com README explicativo.  
 
