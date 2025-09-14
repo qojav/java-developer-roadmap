@@ -1,0 +1,123 @@
+site_name: Java Learning Roadmap
+site_description: A comprehensive roadmap to becoming a proficient Java developer, covering essential topics and technologies.
+site_author: 'Marcus "qojav" Pessoa'
+
+copyright: 'Copyright &copy; 2025 Marcus "qojav" Pessoa. All rights reserved.'
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    - scheme: default 
+      primary: green    
+      accent: green
+  language: en
+
+nav:
+  - Home: index.md
+  - Portuguese (Brazil):
+      - Fase 1: languages/pt-br/phase1.md
+      - Fase 2: languages/pt-br/phase2.md
+      - Fase 3: languages/pt-br/phase3.md
+      - Fase 4: languages/pt-br/phase4.md
+      - Fase 5: languages/pt-br/phase5.md
+      - Fase 6: languages/pt-br/phase6.md
+  - English:
+      - Phase 1: languages/en/phase1.md
+      - Phase 2: languages/en/phase2.md
+      - Phase 3: languages/en/phase3.md
+      - Phase 4: languages/en/phase4.md
+      - Phase 5: languages/en/phase5.md
+      - Phase 6: languages/en/phase6.md
+  - Spanish:
+      - Fase 1: languages/es/phase1.md
+      - Fase 2: languages/es/phase2.md
+      - Fase 3: languages/es/phase3.md
+      - Fase 4: languages/es/phase4.md
+      - Fase 5: languages/es/phase5.md
+      - Fase 6: languages/es/phase6.md
+  - Chinese (Mandarin):
+      - 第一阶段: languages/zh/phase1.md
+      - 第二阶段: languages/zh/phase2.md
+      - 第三阶段: languages/zh/phase3.md
+      - 第四阶段: languages/zh/phase4.md
+      - 第五阶段: languages/zh/phase5.md
+      - 第六阶段: languages/zh/phase6.md
+  - French:
+      - Phase 1: languages/fr/phase1.md
+      - Phase 2: languages/fr/phase2.md
+      - Phase 3: languages/fr/phase3.md
+      - Phase 4: languages/fr/phase4.md
+      - Phase 5: languages/fr/phase5.md
+      - Phase 6: languages/fr/phase6.md
+  - Arabic:
+      - المرحلة 1: languages/ar/phase1.md
+      - المرحلة 2: languages/ar/phase2.md
+      - المرحلة 3: languages/ar/phase3.md
+      - المرحلة 4: languages/ar/phase4.md
+      - المرحلة 5: languages/ar/phase5.md
+      - المرحلة 6: languages/ar/phase6.md
+  - Bengali:
+      - পর্যায় ১: languages/bn/phase1.md
+      - পর্যায় ২: languages/bn/phase2.md
+      - পর্যায় ৩: languages/bn/phase3.md
+      - পর্যায় ৪: languages/bn/phase4.md
+      - পর্যায় ৫: languages/bn/phase5.md
+      - পর্যায় ৬: languages/bn/phase6.md
+  - German:
+      - Phase 1: languages/de/phase1.md
+      - Phase 2: languages/de/phase2.md
+      - Phase 3: languages/de/phase3.md
+      - Phase 4: languages/de/phase4.md
+      - Phase 5: languages/de/phase5.md
+      - Phase 6: languages/de/phase6.md
+  - Hindi:
+      - चरण 1: languages/hi/phase1.md
+      - चरण 2: languages/hi/phase2.md
+      - चरण 3: languages/hi/phase3.md
+      - चरण 4: languages/hi/phase4.md
+      - चरण 5: languages/hi/phase5.md
+      - चरण 6: languages/hi/phase6.md
+  - Japanese:
+      - フェーズ 1: languages/ja/phase1.md
+      - フェーズ 2: languages/ja/phase2.md
+      - フェーズ 3: languages/ja/phase3.md
+      - フェーズ 4: languages/ja/phase4.md
+      - フェーズ 5: languages/ja/phase5.md
+      - フェーズ 6: languages/ja/phase6.md
+  - Korean:
+      - 1단계: languages/ko/phase1.md
+      - 2단계: languages/ko/phase2.md
+      - 3단계: languages/ko/phase3.md
+      - 4단계: languages/ko/phase4.md
+      - 5단계: languages/ko/phase5.md
+      - 6단계: languages/ko/phase6.md
+  - Russian:
+      - Фаза 1: languages/ru/phase1.md
+      - Фаза 2: languages/ru/phase2.md
+      - Фаза 3: languages/ru/phase3.md
+      - Фаза 4: languages/ru/phase4.md
+      - Фаза 5: languages/ru/phase5.md
+      - Фаза 6: languages/ru/phase6.md
+  - Vietnamese:
+      - Giai đoạn 1: languages/vi/phase1.md
+      - Giai đoạn 2: languages/vi/phase2.md
+      - Giai đoạn 3: languages/vi/phase3.md
+      - Giai đoạn 4: languages/vi/phase4.md
+      - Giai đoạn 5: languages/vi/phase5.md
+      - Giai đoạn 6: languages/vi/phase6.md 
+  - Italian:
+      - Fase 1: languages/it/phase1.md
+      - Fase 2: languages/it/phase2.md
+      - Fase 3: languages/it/phase3.md
+      - Fase 4: languages/it/phase4.md
+      - Fase 5: languages/it/phase5.md
+      - Fase 6: languages/it/phase6.md
+  - Turkish:
+      - Aşama 1: languages/tr/phase1.md
+      - Aşama 2: languages/tr/phase2.md
+      - Aşama 3: languages/tr/phase3.md
+      - Aşama 4: languages/tr/phase4.md
+      - Aşama 5: languages/tr/phase5.md
+      - Aşama 6: languages/tr/phase6.md

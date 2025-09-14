@@ -1,0 +1,9 @@
+# MkDocs files
+site/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.DS_Store

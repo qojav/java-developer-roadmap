@@ -1,63 +1,33 @@
 # Java Learning Roadmap
 
-This repository provides a comprehensive Java learning roadmap designed to guide learners from beginner to advanced levels. The roadmap is structured into five phases, each focusing on specific skills and technologies to help you become a proficient Java developer. Additionally, to make this resource accessible to a global audience, the roadmap is available in multiple languages, located in the `/languages` directory.
+Welcome to the **Java Learning Roadmap** This is your complete guide to becoming a modern Java developer.
 
-## ⚡ Note
 
-You don’t need to complete the entire roadmap before applying for jobs. From Phase 2 (Object-Oriented Programming) onwards, you will already have the necessary foundations to start looking for internships or junior developer positions while continuing your learning journey.
+[**Visit the full roadmap here**](https://qojav.github.io/java-developer-roadmap/)
 
-## ⭐ Give me a star
+This repository contains the source files of the project. The website is published via **GitHub Pages**.
 
+### ⭐ Give me a star
 Let’s help this roadmap reach as many people as possible! This way, beginners will have easy access to the content and finally master this challenging language once and for all.
 
-## Roadmap Structure
+### Translations
+Some translations were generated with AI and may contain errors. If you are fluent in any of these languages, contributions to improve translations are highly appreciated!
 
-The Java Learning Roadmap is divided into five progressive phases, each building upon the previous one. Below is a brief overview of each phase:
+### How to Contribute
+The documentation is built with **MkDocs**. To install project dependencies, run:
 
-1. **Phase 1: Java Fundamentals (1–2 months)**  
-   Covers the basics of the Java language, including primitive data types, control structures, loops, methods, arrays, basic collections, exception handling, and version control with Git/GitHub.
+```
+pip install -r requirements.txt
+```
+To run a development server with hot reload:
+```
+mkdocs serve
+```
+To build the project:
+```
+mkdocs build --clean
+```
 
-2. **Phase 2: Object-Oriented Programming (2–3 months)**  
-   Focuses on object-oriented programming (OOP) principles such as classes, objects, interfaces, abstraction, encapsulation, inheritance, and polymorphism. It also introduces basic data structures and algorithms.
+### License
 
-3. **Phase 3: Databases (2 months)**  
-   Covers SQL fundamentals, relational databases (PostgreSQL, MySQL), NoSQL databases (MongoDB), database migrations (Flyway, Liquibase), caching with Redis, messaging systems (Kafka, RabbitMQ), and GraphQL.
-
-4. **Phase 4: Main Frameworks (3–4 months)**  
-   Explores essential Java frameworks like Spring Boot, Spring Data JPA, Spring Security, and Hibernate. It includes build tools (Maven, Gradle), testing frameworks (JUnit, Mockito), and deploying a project to the cloud (AWS, Railway, or Heroku).
-
-5. **Phase 5: System Architecture (3 months)**  
-   Focuses on advanced topics like Clean Code, design patterns, SOLID principles, Clean Architecture, TDD, API documentation with Swagger, DevOps (Docker, CI/CD with GitHub Actions), and system design (scalability, high availability, Kubernetes).
-
-Additionally, the roadmap includes **Final Projects** to consolidate learning through practical applications and **Extra Topics** for those who want to dive deeper into advanced concepts like Stream API, hexagonal architecture, and security practices (OWASP Top Ten).
-
-## Available Languages
-
-To ensure accessibility for a global audience, the roadmap is translated into multiple languages. You can find the translated versions in the `/languages` directory:
-
-- [English](/languages/README.en.md)
-- [Arabic](/languages/README.ar.md)
-- [Bengali](/languages/README.bn.md)
-- [Chinese (Mandarin)](/languages/README.zh.md)
-- [French](/languages/README.fr.md)
-- [German](/languages/README.de.md)
-- [Hindi](/languages/README.hi.md)
-- [Japanese](/languages/README.ja.md)
-- [Korean](/languages/README.ko.md)
-- [Portuguese (Brazil)](/languages/README.pt-br.md)
-- [Russian](/languages/README.ru.md)
-- [Spanish](/languages/README.es.md)
-- [Vietnamese](/languages/README.vi.md)
-
-Each translated README contains the same content as the original roadmap, ensuring consistency across all languages.
-
-## How to Use This Roadmap
-
-1. **Choose Your Language**: Select the README in your preferred language from the list above.
-2. **Follow the Phases**: Start with Phase 1 and progress through the phases in order, using the recommended resources to deepen your understanding.
-3. **Practice and Apply**: Complete the exercises and projects suggested in each phase to solidify your knowledge.
-4. **Explore Extra Topics**: Once comfortable, dive into the extra topics to enhance your skills further.
-
-This roadmap is designed to be flexible, allowing you to learn at your own pace while covering all essential aspects of Java development. Whether you're a beginner or aiming to become a professional Java developer, this guide will support your journey.
-
-Happy learning!
+This roadmap is protected by the [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
